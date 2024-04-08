@@ -64,4 +64,3 @@ function getOldExcel() {
 }
 
 module.exports = { getLinksForRequest, getOldExcel };
-
